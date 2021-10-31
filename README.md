@@ -4,6 +4,3 @@
 - 📫 How to reach me:\
 https://www.linkedin.com/in/anagy-staron/
 
-Creative problem solver with 13 years of experience in data manipulation and analysis in an academic background,
-looking to transition into Data Analytics. Experience in successfully managing independent data-driven projects in
-international research teams. Skilled communicator.
