@@ -2,7 +2,7 @@
 
 #### **NOW**
 - :house_with_garden: I'm based in Vienna, Austria.
-- :arrow_right: I am looking to transition into Data Analytics.
+- :arrow_right: I am looking to transition into Data Science.
 
 #### **BIO**
 - :microbe: My background is in molecular and synthetic biology. 
